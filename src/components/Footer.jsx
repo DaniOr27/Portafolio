@@ -117,7 +117,7 @@ const Footer = () => {
                         className="logo reveal-up"
                     >
                         <img 
-                        src="https://raw.githubusercontent.com/DaniOr27/Portafolio/5fa673d224c933463d56c93b9cbd074e850940c4/public/images/favicon.svg" 
+                        src="https://raw.githubusercontent.com/DaniOr27/Portafolio/c219260f00ac2149601fe6d3df624dd2fc75516b/public/images/favicon.svg" 
                         width={40}
                         height={40}
                         alt="Logo" 
