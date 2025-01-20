@@ -36,18 +36,18 @@ const Navbar = ({navOpen}) => {
 
         const navItems = [
             {
-            label: 'Inicio',
+            label: 'Home',
             link: '#home',
             className: 'nav-link active',
             ref: lastActiveLink
             },
             {
-            label: 'Sobre mí',
+            label: 'About',
             link: '#about',
             className: 'nav-link'
             },
             {
-            label: 'Proyectos',
+            label: 'Work',
             link: '#work',
             className: 'nav-link'
             },/* 
@@ -57,7 +57,7 @@ const Navbar = ({navOpen}) => {
             className: 'nav-link'
             }, */
             {
-            label: 'Contáctame',
+            label: 'Contact Me',
             link: '#contact',
             className: 'nav-link md:hidden'
             }
