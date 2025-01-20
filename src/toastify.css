@@ -1,0 +1,5 @@
+/* Estilo para el contenedor de notificaciones */
+.Toastify__toast {
+    background-color: black !important; /* Fondo negro */
+    color: white !important;  /* Texto blanco */
+}
